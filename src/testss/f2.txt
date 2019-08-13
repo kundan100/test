@@ -2,3 +2,4 @@ line 1
 line 2
 line 3
 line 4 in f2.txt
+line 5 in f2.txt
